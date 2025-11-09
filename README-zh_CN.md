@@ -34,6 +34,8 @@ decode和scheduler等角色），支持大语言模型（LLM）跨多节点设�
 
 ![](doc/rbgs-concept.png)
 
+详细架构设计和核心组件说明，请参考[架构文档](doc/architecture.md)。
+
 ## 快速开始
 
 - [安装RBG Controller](doc/install.md)

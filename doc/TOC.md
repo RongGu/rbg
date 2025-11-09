@@ -4,6 +4,7 @@
 
 - Overview
     - [Introduction](../README.md)
+    - [Architecture](architecture.md)
 - Installation
     - [Kubectl](./install.md)
     - [Helm](./install.md)

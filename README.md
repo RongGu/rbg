@@ -38,6 +38,8 @@ tackles the following challenges:
 
 ![](doc/rbgs-concept.png)
 
+For detailed architecture design and core components, see [Architecture Documentation](doc/architecture.md).
+
 ## Getting Started
 
 - [Install RBG Controller](doc/install.md)
